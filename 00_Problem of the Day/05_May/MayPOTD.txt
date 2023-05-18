@@ -1,1 +1,19 @@
 
+01 - Subtree In N-ary Tree
+02 - Cake Distribution Problem
+03 - Make Palindrome
+04 - Max Coins
+05 - Good Subtrees
+06 - Another Coin Change Problem
+07 - String Mirror
+08 - Binary Modulo
+09 - Count Binary Strings With No Consecutive 1s
+10 - Total Cuts
+11 - Palindrome with minimum sum
+12 - Array Operations
+13 - Bit Magic
+14 - Maximum subset sum
+15 - Count Total Setbits
+16 - Cutting Binary String
+17 - Trace Path
+18 - Find number of closed islands
