@@ -33,10 +33,15 @@
 | 25 | Level order traversal in spiral form | Easy | [Solution](https://github.com/Mehul237/GFG_237/blob/main/00_Problem%20of%20the%20Day/07_July/Levelordertraversalinspiralform.cpp)
 | 26 | Kth Ancestor in a Tree | Medium | [Solution](https://github.com/Mehul237/GFG_237/blob/main/00_Problem%20of%20the%20Day/07_July/KthAncestorinaTree.cpp)
 | 27 | Heap Sort | Medium | [Solution](https://github.com/Mehul237/GFG_237/blob/main/00_Problem%20of%20the%20Day/07_July/HeapSort.cpp)
-| 28 |                 |              | [Solution]( )
-| 29 |                 |              | [Solution]( )
-| 30 |                 |              | [Solution]( )
-| 31 |                 |              | [Solution]( )
-
-
-
+| 28 | Lowest Common Ancestor in a BST | Easy | [Solution](https://github.com/Mehul237/GFG_237/blob/main/00_Problem%20of%20the%20Day/07_July/LowestCommonAncestorinaBST.cpp)
+| 29 | Median of BST | Easy | [Solution](https://github.com/Mehul237/GFG_237/blob/main/00_Problem%20of%20the%20Day/07_July/MedianofBST.cpp)
+| 30 | Inorder Successor in BST | Easy | [Solution](https://github.com/Mehul237/GFG_237/blob/main/00_Problem%20of%20the%20Day/07_July/InorderSuccessorinBST.cpp)
+| 31 | BFS of graph | Easy | [Solution](https://github.com/Mehul237/GFG_237/blob/main/00_Problem%20of%20the%20Day/07_July/BFSofgraph.cpp)
+| 32 |                 |              | [Solution]( )
+| 33 |                 |              | [Solution]( )
+| 34 |                 |              | [Solution]( )
+| 35 |                 |              | [Solution]( )
+| 36 |                 |              | [Solution]( )
+| 37 |                 |              | [Solution]( )
+| 38 |                 |              | [Solution]( )
+| 39 |                 |              | [Solution]( )
