@@ -14,5 +14,5 @@
 | 06 | String Permutations | Easy | [Solution](https://github.com/Mehul237/GFG_237/blob/main/00_Problem%20of%20the%20Day/08_August/StringPermutations.cpp)
 | 07 |                 |              | [Solution]( )
 | 08 |                 |              | [Solution]( )
-| 09 |                 |              | [Solution]( )
+| 09 | Largest prime factor | Medium | [Solution](https://github.com/Mehul237/GFG_237/blob/main/00_Problem%20of%20the%20Day/08_August/Largestprimefactor.cpp)
 | 10 |                 |              | [Solution]( )
