@@ -37,11 +37,4 @@
 | 29 | Median of BST | Easy | [Solution](https://github.com/Mehul237/GFG_237/blob/main/00_Problem%20of%20the%20Day/07_July/MedianofBST.cpp)
 | 30 | Inorder Successor in BST | Easy | [Solution](https://github.com/Mehul237/GFG_237/blob/main/00_Problem%20of%20the%20Day/07_July/InorderSuccessorinBST.cpp)
 | 31 | BFS of graph | Easy | [Solution](https://github.com/Mehul237/GFG_237/blob/main/00_Problem%20of%20the%20Day/07_July/BFSofgraph.cpp)
-| 32 |                 |              | [Solution]( )
-| 33 |                 |              | [Solution]( )
-| 34 |                 |              | [Solution]( )
-| 35 |                 |              | [Solution]( )
-| 36 |                 |              | [Solution]( )
-| 37 |                 |              | [Solution]( )
-| 38 |                 |              | [Solution]( )
-| 39 |                 |              | [Solution]( )
+
