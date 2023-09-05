@@ -1,0 +1,15 @@
+| Day | Title                                              | Difficulty   | Solution |
+| --- | -------------------------------------------------- | -------      | ------- |
+| 01 | Leftmost and rightmost nodes of binary tree | Medium | [Solution](https://github.com/Mehul237/GFG_237/blob/main/00_Problem%20of%20the%20Day/09_September/Leftmostandrightmostnodesofbinarytree.cpp) 
+| 02 | Leaf under budget | Easy | [Solution](https://github.com/Mehul237/GFG_237/blob/main/00_Problem%20of%20the%20Day/09_September/LeafUnderBudget.cpp)  
+| 03 | Check if Tree is Isomorphic | Easy | [Solution](https://github.com/Mehul237/GFG_237/blob/main/00_Problem%20of%20the%20Day/09_September/CheckifTreeisIsomorphic.cpp)   
+| 04 | Replace O's with X's | Medium | [Solution](https://github.com/Mehul237/GFG_237/blob/main/00_Problem%20of%20the%20Day/09_September/ReplaceO'swithX's.cpp) 
+| 05 | Print adjacency list | Easy | [Solution](https://github.com/Mehul237/GFG_237/blob/main/00_Problem%20of%20the%20Day/09_September/Printadjacencylist.cpp) 
+| 06 |   | Medium | [Solution]() 
+| 07 |   | Easy   | [Solution]() 
+| 08 |   | Easy   | [Solution]() 
+| 09 |   | Medium | [Solution]() 
+| 10 |   | Easy   | [Solution]() 
+| 11 |   | Medium | [Solution]() 
+| 12 |   | Easy   | [Solution]() 
+| 13 |   | Medium | [Solution]() 
