@@ -1,0 +1,4 @@
+ 1 - CodeISM Preparation Guide - - Interview related video around 02:30 hr
+   - Dangar sell
+   - Interview asked topic finished first, Sheet standard Q (01 dec - Bit manipulation, Graph)
+
